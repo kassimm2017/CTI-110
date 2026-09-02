@@ -5,8 +5,8 @@
 print("Welcome to CTI-110 - My First Program!")
 print()
 
-first_name = input("Enter your first name!")
-last_name = input("Enter your last name!")
+first_name = input("Enter your first name:")
+last_name = input("Enter your last name:")
 
 print()
 print(f"Welcome, {first_name} {last_name}!")
